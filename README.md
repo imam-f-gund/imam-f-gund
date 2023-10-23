@@ -1,4 +1,4 @@
-# PHP Fullstack, Back End Laravel Framework,Laravel Framework Fullstack & FLutter/Dart
+# PHP Fullstack, Back End Laravel Framework, Laravel Framework Fullstack & Flutter andorid
 ### Social Media
 <p align="left">
   <a href="https://linkedin.com/in/imam-fakhruddin/">
